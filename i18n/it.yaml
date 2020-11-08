@@ -4,7 +4,7 @@
 - id: shortdateFormat
   translation: "2 Jan 2006 15:04:05"
 - id: postedOnDate
-  translation: "Redatto il {{ .Count }}"
+  translation: "Pubblicato il {{ .Count }}"
 - id: lastModified
   translation: "(Ultima modifica il {{ .Count }})"
 - id: translationsLabel
@@ -39,7 +39,7 @@
 - id: toggleNavigation
   translation: "Attiva/disattiva la navigazione"
 - id: languageSwitcherLabel
-  translation: "Linguaggio"
+  translation: "Lingua"
 - id: gcseLabelShort
   translation: "Cerca"
 - id: gcseLabelLong
@@ -71,4 +71,4 @@
 
 # Related posts
 - id: seeAlso
-  translation: "Guarda anche"
+  translation: "Vedi anche"
