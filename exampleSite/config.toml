@@ -1,9 +1,7 @@
 baseurl = "https://username.github.io"
 DefaultContentLanguage = "en"
-#DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"
 theme = "beautifulhugo"
-metaDataFormat = "yaml"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
