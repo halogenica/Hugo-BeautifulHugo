@@ -37,7 +37,7 @@
 
 # Navigation
 - id: toggleNavigation
-  translation: "Attiva/disattiva la navigazione"
+  translation: "Menu"
 - id: languageSwitcherLabel
   translation: "Linguaggio"
 - id: gcseLabelShort
