@@ -73,6 +73,7 @@ pygmentsCodefencesGuessSyntax = true
   kaggle = "username"
   weibo = "username"
   slack = "username"
+  discord = "invite code (https://discord.gg/XXXXXXX)"
 
 [[menu.main]]
     name = "Blog"
