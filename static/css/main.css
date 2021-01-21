@@ -375,6 +375,8 @@ footer .theme-by {
 .post-preview .post-meta,
 .post-heading .post-meta,
 .page-meta {
+  display: flex;
+  flex-wrap: wrap;
   color: #808080;
   font-size: 18px;
   font-style: italic;
