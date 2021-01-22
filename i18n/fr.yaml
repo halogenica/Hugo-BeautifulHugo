@@ -59,7 +59,7 @@
 - id: yourName
   translation: "Votre nom"
 - id: yourEmail
-  translation: "Votre addresse mail"
+  translation: "Votre adresse mail"
 - id: yourWebsite
   translation: "Votre site web"
 
