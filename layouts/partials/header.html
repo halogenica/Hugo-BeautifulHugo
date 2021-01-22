@@ -53,6 +53,7 @@
         <span class="img-desc" style="display: inline;"></span>
       </div>
     {{end}}
+    {{ if $title }}
     <div class="intro-header no-img">
       <div class="container">
         <div class="row">
@@ -81,6 +82,7 @@
         </div>
       </div>
     </div>
+  {{ end }}
   </header>
 {{ else }}
   <div class="intro-header"></div>
