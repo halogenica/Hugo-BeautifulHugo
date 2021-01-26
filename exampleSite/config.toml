@@ -73,6 +73,7 @@ pygmentsCodefencesGuessSyntax = true
   kaggle = "username"
   weibo = "username"
   slack = "username"
+  strava = "userid"
 
 [[menu.main]]
     name = "Blog"
