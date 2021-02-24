@@ -175,6 +175,19 @@ This is column 2.
 {{< endcolumn >}}
 ```
 
+### Social Media Icons
+
+In order to show social media icons in the footer, add a section like this to your `config.yaml`.  You can see the full list of supported social media sites in `data/beautifulhugo/social.toml`.
+
+```yaml
+author: 
+  name: "Author Name"
+  website: "https://example.com"
+  github: halogenica/beautifulhugo
+  twitter: username
+  discord: 96VAXXvjCB
+```
+
 ## About
 
 This is an adaptation of the Jekyll theme [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/) by [Dean Attali](https://deanattali.com/aboutme#contact). It supports most of the features of the original theme, and many new features. It has diverged from the Jekyll theme over time, with years of community updates.
